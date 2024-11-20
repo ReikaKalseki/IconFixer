@@ -41,6 +41,7 @@ namespace ReikaKalseki.IconFixer
        setIcon("PowerCoil");
        setIcon("CargoLiftImproved", "ImprovedCargoLift");
        setIcon("CargoLiftBulk", "BulkCargoLift");
+       setIcon("AntimatterDrillMotor", "AntimatterMotor");
         
         return registrationData;
     }
